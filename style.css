@@ -1,0 +1,420 @@
+.sect1
+{   
+    background-color: rgba(211, 208, 208, 0.759);
+}
+.propos
+{
+    font-size: 180px;
+    font-style: normal;
+    color: white;
+    margin-left: 140px;
+}
+.citation1
+{
+    font-size: 30px;
+    color: blue;
+    margin-left: 140px;
+    margin-right: 300px;
+}
+.p1
+{
+    font-size: 13px;
+    margin-left: 140px;
+    margin-right: 400px;
+    margin-bottom: 10px;
+}
+.sect2
+{
+    margin-left: 100px;
+    margin-right: 00px;
+}
+.r1
+{
+    font-size: 20px;
+    color: #2626fac8;
+    padding-left: 90px;
+}
+.p2
+{
+    padding-left: 90px;
+    padding-right:180px ;
+    padding-top: -80px;
+}
+.img1
+{
+    width: 210px;
+    height: 250px;
+    padding-right: 100px;
+    padding-top: -70px;
+}
+.img2
+{
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    padding-right: 50px;
+}
+.r2
+{
+    
+    font-size: 20px;
+    color: #2626fac8;
+    padding-top: 50px;
+    padding-left: 5px;
+}
+.p3
+{
+    font-size: 20px;
+    padding-left: 5px;
+    padding-top: -90px;
+    padding-right: 150px;
+}
+.bleu
+{
+    width: 980px;
+    height: 300px;
+    background-color: blue;
+    padding-bottom: 50px;
+}
+.gris
+{
+    background-color: gray;
+    width: 800px;
+    height: 600px;
+
+}
+.img4{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.p4
+{
+    margin-left: 40px;
+    width: 500px;
+    line-height: 25px;
+    text-align: justify;
+}
+.p{
+    margin-top: 15px;
+    margin-right: 100px;
+}
+.guillemet{
+    font-size: 80px;
+    margin-top: -10px;
+}
+.mission{
+    font-weight: 200px;
+    font-size: 80px;
+    color: rgb(29, 70, 174);
+    padding-left: 150px;
+    padding-bottom: 100px;
+}
+.button
+{
+    border: 1px solid #e0dbdb;
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding: 15px;
+    margin-left: 70px;
+    margin-top: -60px;
+    text-align: center;
+    box-shadow: 100px; 
+    position: relative;
+    bottom: 500px; 
+}
+.pa
+{
+    vertical-align: auto;
+    font-size: 20px;
+    position: relative;
+    bottom: 330px;
+    margin-bottom: 250px;
+    margin-left: 380px;
+
+}
+.p5{
+    text-align: right;
+    margin-right: 200px;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 180px;
+} 
+.t1{
+    position: relative;
+    bottom: 450px;
+    margin-left: 150px;
+    margin-right: 700px;
+
+}  
+.immeuble-haut{
+    position: relative;
+    bottom: 730px;
+    padding-left: 1000px;
+}
+.sect5{
+    background-color:  rgba(211, 208, 208, 0.759);
+    position: relative;
+    bottom: 700px;
+}
+.citation2{
+    font-size: 60px;
+    color: #2626fac8;
+    position: relative;
+    border: 20px;
+    margin-left: 150px;
+    margin-right: 200px;
+    
+}
+.auteur{
+    font-size: 20px;
+    text-align: center;
+}
+.sect6{
+    position: relative;
+    top: -700px;
+}
+.rne{
+    font-size: 80px;
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+}
+.femme1{
+    border-radius: 100%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: relative;
+    margin-left: 150px;
+
+}
+.femme2{
+    border-radius: 100%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: relative;
+    margin-right: 420px;
+}
+.chef1{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c5c3c3;
+    padding-left: 360px;
+}
+.chef2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c5c3c3;
+    padding-left: 920px;
+}
+.marie{
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 310px;
+}
+.Ann{
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 920px;
+}
+.blanche{
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    padding-left: 180px;
+    padding-right: 870px;
+}
+.noir{
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    padding-left: 920px;
+    padding-right: 100px;
+}
+.nom1{
+    position: relative;
+    bottom: 210px;
+}
+.nom2{
+    position: relative;
+    bottom: 410px;
+}
+.logo1{
+    position: relative;
+    bottom: 400px;
+    margin-left: 200px;
+}
+.logo2{
+    text-align: right;
+    position: relative;
+    bottom: 429px;
+    margin-right: 277px;
+}
+.sect7{
+    position: relative;
+    top: -1100px;
+    background-color: #e0dbdb;
+}
+.div1{
+    margin-left: 40px;
+    margin-right: 100px;
+    bottom: 200px;
+}
+.titre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 180px;
+    padding-left: 150px;
+}
+.ex-titre{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 140px;
+    position: relative;
+    margin-top: -150px;
+}
+.devise{
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;
+    margin-top: -10px;
+    padding-left: 140px;
+    padding-right: 500px;
+}
+.div2{
+    position: relative;
+    margin-left: 220px;
+    margin-right: 600px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.div3{
+    position: relative;
+    margin-left: 820px;
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    top: -187px;
+}
+.bouton
+{
+
+    writing-mode: horizontal-tb !important;
+    font-style:normal ;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: blue;
+    margin: 0em;
+    padding: 10px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: blue;
+}
+.div4{
+    position: relative;
+    top: -180px;
+    bottom: -100px;
+    margin-left: 820px;
+}
+.sect8{
+    position: relative;
+    top: -900px;
+    bottom: -300px;
+}
+.ns{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+    position: relative;
+    margin-right: 600px;
+    margin-left: 100px;
+    margin-top: -200px;
+}
+.numero{
+    font-size: 25px !important;
+    color: rgb(42, 41, 41) !important;
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+.cadre{
+    background-color: #e0dbdb;
+    margin-left: 750px;
+    margin-right: 50px;
+    position: relative;
+    top: -400px;
+}
+.fem-lieu{
+    position: relative;
+    padding-left: 160px;
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    padding-right: 170px;
+}
+.Li{
+    font-size: 35px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    padding-top: 10px;
+}
+.avenue{
+    font-size: 18px;
+    text-align: center;
+    padding-left: 135px;
+    padding-right: 135px;
+}
+.text{
+    font-size: 18px;
+    text-align: center;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+.footer{
+    position: relative;
+    top: -1100px;
+    background-color: black;
+}
+.click{
+    text-align: center;
+    margin-left: 420px;
+    margin-right: 470px;
+    color: white;
+}
+.lien{
+    color: white;
+    text-align: center;
+}
+/* .quote{
+    font-size: 100px;
+    position: absolute;
+    clip:rect(5px, 10px, 40px, 10px);
+    color: white;
+    margin-left: 120px;
+} */
