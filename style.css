@@ -1,6 +1,20 @@
+
+html{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+
+}
+.body{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+    height: auto;
+}
 .sect1
 {   
     background-color: rgba(211, 208, 208, 0.759);
+    height: 800px;
 }
 .propos
 {
@@ -18,15 +32,19 @@
 }
 .p1
 {
-    font-size: 13px;
+    font-size: 14px;
     margin-left: 140px;
     margin-right: 400px;
     margin-bottom: 10px;
 }
 .sect2
 {
+    height: 600px;
     margin-left: 100px;
     margin-right: 00px;
+}
+.sect3{
+    height: 650px;
 }
 .r1
 {
@@ -81,7 +99,9 @@
     background-color: gray;
     width: 800px;
     height: 600px;
-
+}
+.sect4{
+    height: 1200px;
 }
 .img4{
     margin-top: 40px;
@@ -157,9 +177,11 @@
     padding-left: 1000px;
 }
 .sect5{
+    height: 600px;
     background-color:  rgba(211, 208, 208, 0.759);
     position: relative;
-    bottom: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: -700px;
 }
 .citation2{
     font-size: 60px;
@@ -175,14 +197,17 @@
     text-align: center;
 }
 .sect6{
+    height: 700px;
     position: relative;
     top: -700px;
+
 }
 .rne{
     font-size: 80px;
     text-align: center;
     color: blue;
     font-family: Arial;
+
 }
 .femme1{
     border-radius: 100%;
@@ -247,7 +272,7 @@
 }
 .logo1{
     position: relative;
-    bottom: 400px;
+    top: -400px;
     margin-left: 200px;
 }
 .logo2{
@@ -260,11 +285,16 @@
     position: relative;
     top: -1100px;
     background-color: #e0dbdb;
+    height: 800px;
 }
 .div1{
     margin-left: 40px;
     margin-right: 100px;
     bottom: 200px;
+}
+.ligne0{
+    position: relative;
+    margin-left: 130px;
 }
 .titre{
     font-family: Arial, Helvetica, sans-serif;
@@ -341,7 +371,7 @@
 .sect8{
     position: relative;
     top: -900px;
-    bottom: -300px;
+    height: 800px;
 }
 .ns{
     font-size: 80px;
@@ -353,11 +383,19 @@
     margin-left: 100px;
     margin-top: -200px;
 }
+.phone1{
+    position: relative;
+    bottom: 75px;
+    padding-right: 100px;
+}
 .numero{
     font-size: 25px !important;
     color: rgb(42, 41, 41) !important;
     font-weight: bold;
+    position: relative;
     padding-left: 40px;
+    bottom: 145px;
+    
 }
 
 .cadre{
@@ -365,7 +403,7 @@
     margin-left: 750px;
     margin-right: 50px;
     position: relative;
-    top: -400px;
+    top: -550px;
 }
 .fem-lieu{
     position: relative;
@@ -390,6 +428,11 @@
     padding-left: 135px;
     padding-right: 135px;
 }
+.ligne2{
+    margin-right: 140px;
+    height: 10px;
+    background-color: black;
+}
 .text{
     font-size: 18px;
     text-align: center;
@@ -411,10 +454,3 @@
     color: white;
     text-align: center;
 }
-/* .quote{
-    font-size: 100px;
-    position: absolute;
-    clip:rect(5px, 10px, 40px, 10px);
-    color: white;
-    margin-left: 120px;
-} */
